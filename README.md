@@ -53,9 +53,9 @@ Track sales ratings categorized by status (Good, Best, Average).
 <img width="892" height="495" alt="Dashboard" src="https://github.com/user-attachments/assets/4f49c605-10bc-42b7-b735-88488fa7e1e7" />
 
 
-##Insights
+## Insights
 
-Apple leads in sales revenue, followed by OnePlus and Samsung.
+<h1>.</h1>Apple leads in sales revenue, followed by OnePlus and Samsung.
 
 UPI and Debit Cards are the most popular payment methods.
 
