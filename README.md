@@ -13,3 +13,6 @@ Identify customer behavior patterns through payment method preferences and ratin
 Monitor monthly and daily sales trends to support strategic decision-making.
 
 Provide a visual and data-driven tool for stakeholders to optimize sales strategies and improve business outcomes.
+
+## Dataset Used
+- <a href="https://github.com/Bittu8175/Mobile-Sales-Performance/blob/main/Data%20Set.xlsx">Dataset</a>
